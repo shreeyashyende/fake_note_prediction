@@ -1,5 +1,8 @@
 # FAKE NOTE PREDICTION
 
+
+### PREFERRED ENVIRONMENT --> JUPYTER NOTEBOOK 
+
 Fake notes is nothing new. They have been existing since long. Today fake notes continues to serve as a political tool around the world, and new technologies are enabling individuals to propagate that fake notes at unprecedented rates.
 One of those new developments, artificial intelligence, can help intelligence department build a consistent fake notes detector, but AI can also empower others to disseminate and even create new forms of fake notes. To understand how, we need to take a quick detour and explain machine learning — one of the most important sub-domains of artificial intelligence
 Detecting Fake notes with Machine Learning:
